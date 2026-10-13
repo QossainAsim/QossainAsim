@@ -2,7 +2,7 @@
 
 AI researcher and founder. CS undergrad at **Beaconhouse National University (BNU), Lahore**, research collaborator at **University of Oxford (NDORMS)**, and Springer Nature co-author. I build AI systems across **geospatial remote sensing, medical imaging, agentic systems, and intelligence platforms**, with a growing focus on foundational AI architectures and AGI for scientific discovery.
 
-📄 **CV:** [Research / Academic](https://raw.githubusercontent.com/QossainAsim/cv/main/Qossain_Awais_Research_CV.pdf) · [Industry / Engineering](https://raw.githubusercontent.com/QossainAsim/cv/main/Qossain_Awais_CV_Industry.pdf)
+📄 **CV:** [Research / Academic](https://raw.githubusercontent.com/QossainAsim/QossainAsim/main/Qossain%20Awais%20Research%20CV.pdf) · [Industry / Engineering](https://raw.githubusercontent.com/QossainAsim/QossainAsim/main/Qossain_Awais_CV_Industry.pdf)
 
 📍 Lahore, Pakistan · [LinkedIn](https://www.linkedin.com/in/qossain-awais) · f2024-0778@bnu.edu.pk
 
@@ -104,4 +104,4 @@ AI researcher and founder. CS undergrad at **Beaconhouse National University (BN
 ---
 
 ## 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/qossain-awais) · f2024-0778@bnu.edu.pk · [CV (Research)](https://raw.githubusercontent.com/QossainAsim/cv/main/Qossain_Awais_Research_CV.pdf) · [CV (Industry)](https://raw.githubusercontent.com/QossainAsim/cv/main/Qossain_Awais_CV_Industry.pdf)
+[LinkedIn](https://www.linkedin.com/in/qossain-awais) · f2024-0778@bnu.edu.pk · [CV (Research)](https://raw.githubusercontent.com/QossainAsim/QossainAsim/main/Qossain%20Awais%20Research%20CV.pdf) · [CV (Industry)](https://raw.githubusercontent.com/QossainAsim/QossainAsim/main/Qossain_Awais_CV_Industry.pdf)
